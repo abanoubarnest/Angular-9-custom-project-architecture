@@ -1,4 +1,9 @@
 # Start
+steps:
+1) install node js ( https://nodejs.org/en/download/)
+2) npm install npm@latest -g
+3) npm install 
+4) ng serve -o
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
